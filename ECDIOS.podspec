@@ -9,6 +9,6 @@ Pod::Spec.new do |spec|
   spec.author       = { "zcf" => "zcfjsjz@icloud.com" }
   spec.platform     = :ios, "10.0"
   spec.source       = { :git => "https://github.com/dddfcz/ECDIOS.git", :tag => "0.0.1" }
-  spec.source_files  = "ECDIOS/YTX_iOS_Full_SDK_v5.4.14t/**/*.{h,m}"
+  spec.source_files  = "YTX_iOS_Full_SDK_v5.4.14t/**/*.{h,m}"
   spec.requires_arc = true
 end
